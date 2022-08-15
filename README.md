@@ -1,0 +1,2 @@
+# Urgencias
+Para usar enum
